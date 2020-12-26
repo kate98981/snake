@@ -1,0 +1,14 @@
+.canvas{
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    color: red;
+    text-align: center;
+}
